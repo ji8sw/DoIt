@@ -1,2 +1,6 @@
+
 # DoIt
-A to-do tool in Python
+A small to-do tool made in Python, Made with boredom.
+
+## Requirements
+[Python](https://www.python.org/)
